@@ -28,7 +28,7 @@ Upon successful completion of the course, ShadowWorx Systems plans to donate Ser
 - Azure Static Web Apps (deployment)
 
 ## Ownership & Licensing
-ServePoint is developed and owned by ShadowWorx Systems (Matthew).  
+ServePoint is developed and owned by ShadowWorx Systems (Matthew D. Barker, CEO).  
 This project is submitted as a requirement for the BYU-Idaho .NET/Blazor course.  
 The university is granted a non-exclusive license to view and evaluate the code solely for grading purposes.  
 ShadowWorx Systems retains full ownership and reserves the right to donate, license, or commercialize the application after course completion.
