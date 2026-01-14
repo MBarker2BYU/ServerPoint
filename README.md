@@ -3,9 +3,8 @@
 
 ServePoint is a web application designed to help JROTC cadets and high school students in Lee County, Florida track community service hours toward the 100-hour graduation requirement.
 
-**Developer**: Matthew (ShadowWorx Systems)  
-**Team**: Solo project with Grok AI as virtual teammate  
-**Course**: BYU-Idaho .NET/Blazor Semester Project
+**Developer**: Matthew D. Barker (ShadowWorx Systems, CEO)  
+**Course**: BYU-Idaho .NET/Blazor Semester Project (solo development)
 
 ## Purpose
 This application supports students in meeting Lee County's community service graduation milestone by providing secure tracking of volunteer hours, progress visualization, and printable reports.  
